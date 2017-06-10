@@ -10,7 +10,7 @@
 - [ ] Merriweather
 - [ ] Open Sans Condensed
 - [ ] Lora
-- [ ] Ubuntu
+- [x] Ubuntu
 - [ ] Playfair Display
 - [ ] Arimo
 - [ ] PT Serif
