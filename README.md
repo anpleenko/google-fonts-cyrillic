@@ -1,1 +1,1 @@
-# google-fonts-module
+# google-fonts-cyrillic
