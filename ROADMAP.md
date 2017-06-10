@@ -1,6 +1,6 @@
 ### Road map
 
-- [ ] Roboto
+- [x] Roboto
 - [ ] Open Sans
 - [ ] Roboto Condensed
 - [ ] Oswald
