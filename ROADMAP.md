@@ -1,7 +1,7 @@
 ### Road map
 
 - [x] Roboto
-- [ ] Open Sans
+- [x] Open Sans
 - [ ] Roboto Condensed
 - [ ] Oswald
 - [ ] Source Sans Pro

@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Open Sans';
+	src: url('fonts/OpenSans-SemiBoldItalic.woff2') format('woff2'),
+		url('fonts/OpenSans-SemiBoldItalic.woff') format('woff'),
+		url('fonts/OpenSans-SemiBoldItalic.ttf') format('truetype');
+	font-weight: 600;
+	font-style: italic;
+}
