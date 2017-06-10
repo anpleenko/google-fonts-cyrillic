@@ -1,0 +1,81 @@
+### Road map
+
+- [ ] Roboto
+- [ ] Open Sans
+- [ ] Roboto Condensed
+- [ ] Oswald
+- [ ] Source Sans Pro
+- [ ] PT Sans
+- [ ] Roboto Slab
+- [ ] Merriweather
+- [ ] Open Sans Condensed
+- [ ] Lora
+- [ ] Ubuntu
+- [ ] Playfair Display
+- [ ] Arimo
+- [ ] PT Serif
+- [ ] Noto Sans
+- [ ] PT Sans Narrow
+- [ ] Noto Serif
+- [ ] Fira Sans
+- [ ] Lobster
+- [ ] Roboto Mono
+- [ ] Yanone Kaffeesatz
+- [ ] Exo 2
+- [ ] Rubik
+- [ ] Ubuntu Condensed
+- [ ] Play
+- [ ] Cuprum
+- [ ] EB Garamond
+- [ ] PT Sans Caption
+- [ ] Comfortaa
+- [ ] Istok Web
+- [ ] Old Standard TT
+- [ ] Poiret One
+- [ ] Philosopher
+- [ ] Cormorant Garamond
+- [ ] Russo One
+- [ ] Playfair Display SC
+- [ ] Tinos
+- [ ] Didact Gothic
+- [ ] Bad Script
+- [ ] Jura
+- [ ] Marck Script
+- [ ] Neucha
+- [ ] PT Mono
+- [ ] Alice
+- [ ] Scada
+- [ ] Ubuntu Mono
+- [ ] PT Serif Caption
+- [ ] Prata
+- [ ] Forum
+- [ ] Cousine
+- [ ] Oranienbaum
+- [ ] Fira Sans Condensed
+- [ ] Press Start 2P
+- [ ] Ruslan Display
+- [ ] Arsenal
+- [ ] Anonymous Pro
+- [ ] Marmelad
+- [ ] Prosto One
+- [ ] Andika
+- [ ] Kelly Slab
+- [ ] Tenor Sans
+- [ ] Fira Sans Extra Condensed
+- [ ] Yeseva One
+- [ ] Fira Mono
+- [ ] Gabriela
+- [ ] Cormorant
+- [ ] El Messiri
+- [ ] Kurale
+- [ ] Podkova
+- [ ] Ledger
+- [ ] Rubik Mono One
+- [ ] Pattaya
+- [ ] Pangolin
+- [ ] Cormorant SC
+- [ ] Cormorant Infant
+- [ ] Underdog
+- [ ] Seymour One
+- [ ] Stalinist One
+- [ ] Cormorant Unicase
